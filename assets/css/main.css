@@ -2822,11 +2822,11 @@ input, select, textarea {
 		padding-right: 23em;
 	}
 /* Custom Link */
-.custom-link {
+.custom-link h4{
     color: #22417a !important; /* Change this to the color you want for the link */
 }
 
-.custom-link:hover {
+.custom-link:hover h4{
     color: #5ccfb1 !important; /* Change this to the color you want for the hover effect */
 }
 

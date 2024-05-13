@@ -2823,11 +2823,11 @@ input, select, textarea {
 	}
 /* Custom Link */
 .custom-link {
-    color: #22417a; /* Change this to the color you want for the link */
+    color: #22417a !important; /* Change this to the color you want for the link */
 }
 
 .custom-link:hover {
-    color: #5ccfb1; /* Change this to the color you want for the hover effect */
+    color: #5ccfb1 !important; /* Change this to the color you want for the hover effect */
 }
 
 /* Main */

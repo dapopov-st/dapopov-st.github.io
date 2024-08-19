@@ -3329,3 +3329,14 @@ input, select, textarea {
 			}
 
 	}
+
+
+	.project-description {
+		font-weight: bold; /* Example style for the general project description */
+		margin-bottom: 10px; /* Add some space after the description */
+	}
+	
+	.project-component {
+		margin-left: 20px; /* Example style for individual components */
+		margin-bottom: 5px; /* Add some space between components */
+	}

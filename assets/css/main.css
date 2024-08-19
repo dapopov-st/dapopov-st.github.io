@@ -3353,3 +3353,14 @@ input, select, textarea {
 		font-size: 1.2em; /* Adjust the size as needed */
 		line-height: 1; /* Adjust the line height as needed */
 	}
+
+	.consistent-image {
+		width: 200px; /* Set the desired width */
+		height: 200px; /* Set the desired height */
+		object-fit: cover; /* Ensures the image covers the entire area */
+		/* Alternatively, you can use other values for object-fit:
+		   - contain: The image will be resized to fit within the container while maintaining its aspect ratio.
+		   - fill: The image will be stretched to fill the container, which may distort the image.
+		   - none: The image will not be resized.
+		   - scale-down: The image will be scaled down to the smallest size that fits within the container while maintaining its aspect ratio. */
+	}
